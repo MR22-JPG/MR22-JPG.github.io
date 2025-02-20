@@ -170,19 +170,19 @@ export default {
       ],
       cases: [
         {
-          image: "@/assets/case1.jpg",
+          image: "../../public/1.jpg",
           title: "国家大剧院灯光改造",
           desc: "采用智能调光系统，实现舞台灯光精准控制",
           type: "剧院项目"
         },
         {
-          image: "@/assets/case2.jpg",
+          image: "../../public/2.webp",
           title: "广州亚运会开幕式",
           desc: "大型户外舞台灯光解决方案",
           type: "体育赛事"
         },
         {
-          image: "@/assets/case3.jpg",
+          image: "../../public/3.webp",
           title: "央视春晚舞台灯光",
           desc: "定制化灯光效果，完美呈现节目氛围",
           type: "电视节目"

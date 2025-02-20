@@ -18,7 +18,7 @@ export default {
     <el-row class="intro-section" :gutter="40">
       <el-col :md="12" :sm="24">
         <div class="intro-image">
-          <img src="@/assets/index/logo.jpg" alt="公司环境" />
+          <img src="../../public/logo.jpg" alt="公司环境" />
         </div>
       </el-col>
       <el-col :md="12" :sm="24">

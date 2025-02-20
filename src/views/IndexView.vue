@@ -8,7 +8,7 @@
       <el-header class="header">
         <el-row :gutter="20" align="middle" style="background-color: #fff;">
           <el-col :span="1">
-            <img src="@/assets/index/logo.jpg" alt="logo" />
+            <img src="../../public/logo.jpg" alt="logo" />
           </el-col>
           <el-col :span="16">
             <h2 style="color: black;">广州广久舞台灯光</h2>

@@ -166,7 +166,7 @@ export default {
       activeCategory: "全部",
       newsList: [
         {
-          image: "@/assets/news1.jpg",
+          image: "../../public/1.jpg",
           title: "广久灯光新品发布会圆满成功",
           summary: "2023年秋季新品发布会展示了最新智能灯光控制系统...",
           date: "2023-10-15",
@@ -174,7 +174,7 @@ export default {
           type: "公司动态"
         },
         {
-          image: "@/assets/news2.jpg",
+          image: "../../public/1.jpg",
           title: "舞台灯光技术发展趋势分析",
           summary: "随着LED技术的进步，舞台灯光行业正迎来新的发展机遇...",
           date: "2023-10-10",
@@ -182,7 +182,7 @@ export default {
           type: "行业资讯"
         },
         {
-          image: "@/assets/news3.jpg",
+          image: "../../public/1.jpg",
           title: "智能调光系统技术解析",
           summary: "深入探讨智能调光系统的核心技术及应用场景...",
           date: "2023-10-05",
@@ -192,14 +192,14 @@ export default {
       ],
       hotNewsList: [
         {
-          image: "@/assets/hot-news1.jpg",
+          image: "../../public/1.jpg",
           title: "广久灯光荣获行业创新大奖",
           summary: "在2023年度照明行业创新评选中，广久灯光凭借...",
           date: "2023-09-28",
           views: 2345
         },
         {
-          image: "@/assets/hot-news2.jpg",
+          image: "../../public/1.jpg",
           title: "2023广州国际灯光展圆满落幕",
           summary: "广久灯光在本次展会中展示了多款创新产品...",
           date: "2023-09-20",

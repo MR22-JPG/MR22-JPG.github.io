@@ -45,21 +45,21 @@ const carouselImage = ref([
     <el-card style="width: 30%;">
     <template #header>灯光123</template>
     <img
-      src="@/assets/index/logo.jpg"
+      src="../../public/logo.jpg"
       style="width: 100%"
     />
   </el-card>
   <el-card style="width: 30%;">
     <template #header>灯光xxxxx</template>
     <img
-      src="@/assets/index/logo.jpg"
+      src="../../public/logo.jpg"
       style="width: 100%"
     />
   </el-card>
   <el-card style="width: 30%;">
     <template #header>灯光xxxxx</template>
     <img
-      src="@/assets/index/logo.jpg"
+      src="../../public/logo.jpg"
       style="width: 100%"
     />
   </el-card>
